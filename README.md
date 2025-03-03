@@ -1,7 +1,7 @@
 **Various machine learning techniques to get the best result for scouring produced in river due to different features**
 
 
-**Scouring**
+**Scouring:**
 
 [scouring(1).ipynb](/scouring(1).ipynb):
 
